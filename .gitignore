@@ -1,5 +1,5 @@
 development-*.ini
-TwitterTest.egg-info
+twitterreader.egg-info
 *.pyc
 .*.swp
 *.mo
