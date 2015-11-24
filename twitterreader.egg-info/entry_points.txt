@@ -1,5 +1,0 @@
-      [paste.app_factory]
-      main = twitterreader:main
-      [console_scripts]
-      initialize_twitterreader_db = twitterreader.scripts.initializedb:main
-      
