@@ -1,0 +1,10 @@
+
+
+-add an option to choose weither the links redirect to twitter or the application
+- correct a bug that make a link in an email address like toto@gmail.com will have @gmail as a link
+- ajouter un système de cache des twitter qui permette de ne pas lancer de nouevelle requete à twitter
+pour toute les x seconde ou x est le le nombre de secondes entre chaque requete pour eviter la limitation twitter
+-  ajouter un lecteur rss, voir le utilisateurs
+-  ajouter un bouton favoris et follow aussi
+- trouver un moyen de charger les tweets suivant dans la timeline
+- gérer correctement les exceptions

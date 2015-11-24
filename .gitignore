@@ -1,0 +1,7 @@
+development-*.ini
+TwitterTest.egg-info
+*.pyc
+.*.swp
+*.mo
+*.sqlite
+*.wsgi
